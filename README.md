@@ -13,16 +13,8 @@ Sending extracted data directly to your email
 
 💡 Built to solve real-world problems in expense tracking and workflow automation.
 
-🏗️ Architecture
-S3 Bucket (Upload Receipt PDF)
-        ↓
-AWS Lambda (Triggered)
-        ↓
-Data Extraction (Python Logic)
-        ↓
-Processed Data(Dynamo DB)
-        ↓
-Email Notification (SES)
+<img width="884" height="291" alt="image" src="https://github.com/user-attachments/assets/5de36e75-07f0-4649-9515-a6090ae69d08" />
+
 
 ⚙️ Tech Stack
 AWS S3 – Storage for receipt PDFs
