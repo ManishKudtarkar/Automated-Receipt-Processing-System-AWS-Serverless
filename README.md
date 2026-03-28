@@ -1,5 +1,9 @@
 # 🧾 Automated Receipt Processing System — AWS Serverless
 
+
+https://github.com/user-attachments/assets/cc46185e-0c2a-4efd-845c-de154c748b7b
+
+
 > **Zero manual work.** Upload a receipt PDF → get structured data in your inbox, automatically.
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
