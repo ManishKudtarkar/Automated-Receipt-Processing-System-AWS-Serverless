@@ -3,6 +3,8 @@
 
 https://github.com/user-attachments/assets/cc46185e-0c2a-4efd-845c-de154c748b7b
 
+[documentation.pdf](https://github.com/user-attachments/files/26321842/documentation.pdf)
+
 
 > **Zero manual work.** Upload a receipt PDF → get structured data in your inbox, automatically.
 
